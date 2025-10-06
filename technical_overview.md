@@ -7,10 +7,10 @@ This section provides a detailed overview of the system architecture and operati
 ### System Architecture
 
 #### WiFi Hotspot
-The ZaaNet platform creates an isolated WiFi network on a Linux-based device, operating on the `192.168.100.x` subnet. This network serves as the access point for users connecting to the host's WiFi.
+The ZaaNet platform creates an isolated WiFi network on a Linux-based device, operating on the _192.168.100.x_ subnet. This network serves as the access point for users connecting to the host's WiFi.
 
 #### Firewall Control
-ZaaNet employs a firewall `FILTER` method to block internet access by default. Only users who have completed payment are whitelisted, granting them access to the internet.
+ZaaNet employs a firewall _FILTER_ method to block internet access by default. Only users who have completed payment are whitelisted, granting them access to the internet.
 
 #### Captive Portal
 A Node.js application powers the captive portal, which serves the user interface, processes payments, and manages user sessions to ensure seamless connectivity and access control.

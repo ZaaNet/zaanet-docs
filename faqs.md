@@ -10,7 +10,7 @@ ZaaNet is configured to automatically restart on boot. When power is restored, t
 ## Business Questions
 
 ### How do I receive payments?
-Payments are processed daily to your registered wallet address via the `ZaaNetPayment` smart contract on the Arbitrum One mainnet. You can monitor real-time earnings through your host dashboard. ZaaNet deducts a transparent platform fee from each transaction, recorded on the blockchain for full visibility.
+Payments are processed daily to your registered wallet address via the _**ZaaNetPayment**_ smart contract on the Arbitrum One mainnet. You can monitor real-time earnings through your host dashboard. ZaaNet deducts a transparent platform fee from each transaction, recorded on the blockchain for full visibility.
 
 ### Can I set my own prices?
 Yes, hosts have full control over pricing. You can set hourly or session-based rates and offer different packages. The system supports flexible pricing, allowing adjustments based on demand or local market conditions.
@@ -37,4 +37,4 @@ No technical expertise is required. ZaaNet provides a one-command installer that
 The captive portal runs on the Linux-based device, utilizing a Node.js application to intercept user traffic and display the payment portal. When a user connects to the WiFi network, they are redirected to the portal to pay for access using mobile money or a card. Upon payment confirmation, the user's IP address is whitelisted in the firewall, granting internet access.
 
 ### What if I encounter issues?
-To troubleshoot, use the `sudo zaanet logs` command to view real-time system logs. You can also join the ZaaNet Telegram support group for community assistance or consult the detailed troubleshooting guides in the [ZaaNet documentation](https://github.com/ZaaNet). For smart contract-related issues, refer to the [ZaaNet Smart Contracts repository](https://github.com/ZaaNet/zaanet-smart-contracts.git).
+To troubleshoot, use the _**sudo zaanet logs**_ command to view real-time system logs. You can also join the ZaaNet Telegram support group for community assistance or consult the detailed troubleshooting guides in the [ZaaNet documentation](https://github.com/ZaaNet). For smart contract-related issues, refer to the [ZaaNet Smart Contracts repository](https://github.com/ZaaNet/zaanet-smart-contracts.git).
