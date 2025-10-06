@@ -27,6 +27,6 @@ The payment processing flow outlines how users gain internet access through ZaaN
 ### Network Configuration Details
 
 #### Default Network Settings
-- **Portal IP**: `192.168.100.1`
-- **DHCP Range**: `192.168.100.100` - `192.168.100.200`
-- **WiFi SSID**: `ZaaNet-Portal` (customizable)
+- **Portal IP**: _**192.168.100.1**_
+- **DHCP Range**: _**192.168.100.100**_ - _**192.168.100.200**_
+- **WiFi SSID**: _**ZaaNet-Portal**_ (customizable)
