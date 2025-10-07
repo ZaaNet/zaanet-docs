@@ -1,0 +1,1 @@
+A world where internet access is universally available, affordable, and controlled by the community rather than centralized corporations, fostering digital inclusion and economic opportunity.

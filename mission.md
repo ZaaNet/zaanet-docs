@@ -1,0 +1,1 @@
+To create a sustainable, decentralized WiFi ecosystem that empowers individuals and communities to monetize their internet connections while providing affordable, secure access to digital services for everyone.
