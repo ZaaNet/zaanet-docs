@@ -25,8 +25,9 @@ ZaaNet provides a zero-configuration installer that automatically sets up everyt
 
 ```bash
 # Download the ZaaNet installation script
-sudo bash -c 'rm -rf zaanet-installer && git clone https://github.com/zaanet/zaanet-installer.git && cd zaanet-installer && chmod +x install.sh && ./install.sh'
+(PUBLIC RELEASE NOT AVAILABLE ATM!)
 ```
+[Contact support](https://zaanet.xyz/support)
 
 The installer will automatically detect your Linux-based device, identify network interfaces, and configure the system. You will only need to provide your hosted WiFi network name and contract ID during the setup process.
 
